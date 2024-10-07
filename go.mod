@@ -1,4 +1,4 @@
-module Protobuf
+module github.com/kont1n/Protobuf
 
 go 1.23.0
 
